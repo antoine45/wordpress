@@ -1,0 +1,10 @@
+/*
+Theme Name: Twenty Twelve
+Template: twentytwelve
+*/
+
+@import url("../twentytwelve/style.css");
+
+.font-orange{
+	color:#A65600;
+}

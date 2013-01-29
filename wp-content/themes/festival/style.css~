@@ -1,0 +1,13 @@
+/*
+Theme Name: Festival
+Theme URI: http://wordpress.org/extend/themes/twentytwelve
+Author: Antoine
+Author URI: http://wordpress.org/
+Description: Theme enfant du thème twentytwelve
+Template : twentytwelve;
+Version: 0.1.0
+
+
+*/
+
+@import url("../twentytwelve/style.css");
