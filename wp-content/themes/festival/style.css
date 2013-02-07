@@ -8,3 +8,57 @@ Template: twentytwelve
 .font-orange{
 	color:#A65600;
 }
+
+@font-face{
+	font-family: 'ROADMOVIE_TRIAL';
+	src:url('police/ROADMOVIE_TRIAL.ttf');
+}
+
+header h1.site-title{
+	font-family: 'ROADMOVIE_TRIAL';
+	font-size:27pt;
+}
+
+#page{
+	box-shadow: 10px;
+}
+
+/*menu color*/
+.main-navigation li.fg-rose a{
+	color:#E439A1;
+}
+
+.main-navigation li.fg-rouge a{
+ 	color:#FF0000;
+}
+
+.main-navigation li.fg-orange a{
+	color:#FF7C00;
+}
+
+.main-navigation li.fg-jaune a{
+	color:#FFC900;
+}
+
+.main-navigation li.fg-vert a{
+	color:#4DDE00;
+}
+
+.main-navigation li.fg-turquoise a{
+	color:#009999;
+}
+
+.main-navigation li.fg-bleu a{
+	color:#162EAE;
+}
+
+.main-navigation li.fg-violet a{
+	color:#7E07A9;
+}
+
+body{
+	background-image:url('fond/Arc-en-ciel-fond.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1250px 1200px;
+}
